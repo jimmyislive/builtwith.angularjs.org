@@ -3580,6 +3580,22 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "PackageIndex",
+      "thumb": "packageindex/thumb.png",
+      "desc": "Technology / Service stacks of projects / companies",
+      "url": "https://www.packageindex.com/#!/",
+      "submitter": "jimmyislive",
+      "submissionDate": "2014-04-22",
+      "tags": [
+        "Production",
+        "Informational",
+        "Technology Stacks",
+        "Service Stacks",
+        "jQuery",
+        "Bootstrap"
+      ]
     }
 
   ]
